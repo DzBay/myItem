@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-askjdkhaskdhajskdjkashlkd
+askjdkhaskdhajskdjkashlk啊可是觉得金卡是否加快伤口缝合伤口恢复就
